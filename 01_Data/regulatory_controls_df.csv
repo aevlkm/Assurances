@@ -1,0 +1,101 @@
+ID_Contrat,Type_Contrat,Catégorie_Contrat,Type_Donnee,Statut_Validation,ID_Controle,Type_Controle,Date_Controle,Responsable_du_Controle,Anomalies_Detectees
+1,Multirisque Habitation,Assurance Habitation,Données actuarielles,Validée,1,Manuel,2024-01-01,Comptabilité,Aucune
+2,Assurance Santé Collective,Assurance Santé,Données actuarielles,Validée,2,Automatique,2024-02-01,Actuariat,Aucune
+3,Tous Risques,Assurance Automobile,Données actuarielles,Non validée,3,Automatique,2024-03-01,Comptabilité,Erreur de données
+4,Assurance Santé Individuelle,Assurance Santé,Données actuarielles,Non validée,4,Automatique,2024-04-01,Comptabilité,Données manquantes
+5,Complémentaire Santé,Assurance Santé,Données comptables,Validée,5,Automatique,2024-05-01,Actuariat,Aucune
+6,Complémentaire Santé,Assurance Santé,Données comptables,Non validée,6,Automatique,2024-06-01,Actuariat,Erreur de données
+7,Épargne-Vie,Assurance Vie,Données actuarielles,Non validée,7,Manuel,2024-07-01,Comptabilité,Incohérence
+8,Multirisque Habitation,Assurance Habitation,Données actuarielles,Non validée,8,Automatique,2024-08-01,Actuariat,Incohérence
+9,Temporaire Décès,Assurance Vie,Données actuarielles,Validée,9,Manuel,2024-09-01,Comptabilité,Aucune
+10,Vie Entière,Assurance Vie,Données comptables,Validée,10,Manuel,2024-10-01,Comptabilité,Aucune
+11,Temporaire Décès,Assurance Vie,Données actuarielles,Validée,11,Automatique,2024-11-01,Actuariat,Aucune
+12,Complémentaire Santé,Assurance Santé,Données actuarielles,Non validée,12,Manuel,2024-12-01,MOA,Erreur de données
+13,Intermédiaire,Assurance Automobile,Données actuarielles,Validée,13,Automatique,2025-01-01,Actuariat,Aucune
+14,Complémentaire Santé,Assurance Santé,Données comptables,Non validée,14,Manuel,2025-02-01,MOA,Erreur de données
+15,Responsabilité Civile Professionnelle,Assurance Entreprise,Données comptables,Validée,15,Manuel,2025-03-01,Comptabilité,Aucune
+16,Vie Entière,Assurance Vie,Données comptables,Validée,16,Automatique,2025-04-01,Comptabilité,Aucune
+17,Multirisque Habitation,Assurance Habitation,Données comptables,Non validée,17,Automatique,2025-05-01,MOA,Incohérence
+18,Multirisque Habitation,Assurance Habitation,Données comptables,Validée,18,Automatique,2025-06-01,Comptabilité,Aucune
+19,Temporaire Décès,Assurance Vie,Données comptables,Non validée,19,Automatique,2025-07-01,MOA,Erreur de données
+20,Complémentaire Santé,Assurance Santé,Données comptables,Non validée,20,Automatique,2025-08-01,MOA,Incohérence
+21,Responsabilité Civile,Assurance Automobile,Données comptables,Validée,21,Manuel,2025-09-01,Comptabilité,Aucune
+22,Assurance PNO,Assurance Habitation,Données actuarielles,Non validée,22,Manuel,2025-10-01,MOA,Données manquantes
+23,Épargne-Vie,Assurance Vie,Données actuarielles,Validée,23,Manuel,2025-11-01,Actuariat,Aucune
+24,Complémentaire Santé,Assurance Santé,Données comptables,Validée,24,Manuel,2025-12-01,Actuariat,Aucune
+25,Tous Risques,Assurance Automobile,Données comptables,Non validée,25,Manuel,2026-01-01,Comptabilité,Erreur de données
+26,Temporaire Décès,Assurance Vie,Données actuarielles,Validée,26,Manuel,2026-02-01,Comptabilité,Aucune
+27,Complémentaire Santé,Assurance Santé,Données comptables,Non validée,27,Manuel,2026-03-01,MOA,Erreur de données
+28,Assurance Multirisque Professionnelle,Assurance Entreprise,Données comptables,Validée,28,Automatique,2026-04-01,MOA,Aucune
+29,Vie Entière,Assurance Vie,Données comptables,Validée,29,Automatique,2026-05-01,MOA,Aucune
+30,Intermédiaire,Assurance Automobile,Données actuarielles,Validée,30,Manuel,2026-06-01,MOA,Aucune
+31,Temporaire Décès,Assurance Vie,Données actuarielles,Validée,31,Manuel,2026-07-01,Actuariat,Aucune
+32,Assurance Santé Individuelle,Assurance Santé,Données actuarielles,Validée,32,Automatique,2026-08-01,Actuariat,Aucune
+33,Responsabilité Civile Locataire,Assurance Habitation,Données actuarielles,Non validée,33,Automatique,2026-09-01,Comptabilité,Erreur de données
+34,Épargne-Vie,Assurance Vie,Données actuarielles,Non validée,34,Automatique,2026-10-01,MOA,Données manquantes
+35,Responsabilité Civile Professionnelle,Assurance Entreprise,Données comptables,Non validée,35,Automatique,2026-11-01,MOA,Erreur de données
+36,Vie Entière,Assurance Vie,Données actuarielles,Non validée,36,Manuel,2026-12-01,Comptabilité,Données manquantes
+37,Tous Risques,Assurance Automobile,Données comptables,Non validée,37,Automatique,2027-01-01,MOA,Erreur de données
+38,Tous Risques,Assurance Automobile,Données comptables,Non validée,38,Manuel,2027-02-01,MOA,Données manquantes
+39,Complémentaire Santé,Assurance Santé,Données actuarielles,Validée,39,Manuel,2027-03-01,MOA,Aucune
+40,Temporaire Décès,Assurance Vie,Données actuarielles,Validée,40,Manuel,2027-04-01,MOA,Aucune
+41,Assurance Santé Individuelle,Assurance Santé,Données comptables,Non validée,41,Automatique,2027-05-01,MOA,Incohérence
+42,Complémentaire Santé,Assurance Santé,Données comptables,Non validée,42,Automatique,2027-06-01,Comptabilité,Incohérence
+43,Vie Entière,Assurance Vie,Données comptables,Validée,43,Manuel,2027-07-01,MOA,Aucune
+44,Assurance Multirisque Professionnelle,Assurance Entreprise,Données actuarielles,Validée,44,Manuel,2027-08-01,Comptabilité,Aucune
+45,Épargne-Vie,Assurance Vie,Données actuarielles,Validée,45,Manuel,2027-09-01,MOA,Aucune
+46,Temporaire Décès,Assurance Vie,Données actuarielles,Non validée,46,Automatique,2027-10-01,Actuariat,Erreur de données
+47,Multirisque Habitation,Assurance Habitation,Données actuarielles,Non validée,47,Manuel,2027-11-01,Actuariat,Incohérence
+48,Épargne-Vie,Assurance Vie,Données actuarielles,Non validée,48,Automatique,2027-12-01,Actuariat,Données manquantes
+49,Responsabilité Civile,Assurance Automobile,Données comptables,Validée,49,Manuel,2028-01-01,Actuariat,Aucune
+50,Temporaire Décès,Assurance Vie,Données actuarielles,Validée,50,Manuel,2028-02-01,Comptabilité,Aucune
+51,Épargne-Vie,Assurance Vie,Données comptables,Non validée,51,Manuel,2028-03-01,Comptabilité,Données manquantes
+52,Vie Entière,Assurance Vie,Données comptables,Non validée,52,Automatique,2028-04-01,MOA,Incohérence
+53,Temporaire Décès,Assurance Vie,Données comptables,Validée,53,Automatique,2028-05-01,Actuariat,Aucune
+54,Complémentaire Santé,Assurance Santé,Données actuarielles,Validée,54,Manuel,2028-06-01,Comptabilité,Aucune
+55,Vie Entière,Assurance Vie,Données actuarielles,Validée,55,Automatique,2028-07-01,MOA,Aucune
+56,Multirisque Habitation,Assurance Habitation,Données actuarielles,Validée,56,Manuel,2028-08-01,MOA,Aucune
+57,Vie Entière,Assurance Vie,Données comptables,Non validée,57,Automatique,2028-09-01,Comptabilité,Erreur de données
+58,Responsabilité Civile,Assurance Automobile,Données comptables,Validée,58,Automatique,2028-10-01,Actuariat,Aucune
+59,Complémentaire Santé,Assurance Santé,Données comptables,Validée,59,Automatique,2028-11-01,MOA,Aucune
+60,Assurance PNO,Assurance Habitation,Données comptables,Validée,60,Manuel,2028-12-01,Actuariat,Aucune
+61,Responsabilité Civile,Assurance Automobile,Données comptables,Non validée,61,Automatique,2029-01-01,Actuariat,Erreur de données
+62,Assurance Pertes d'Exploitation,Assurance Entreprise,Données comptables,Non validée,62,Automatique,2029-02-01,Actuariat,Incohérence
+63,Assurance Santé Collective,Assurance Santé,Données actuarielles,Validée,63,Manuel,2029-03-01,MOA,Aucune
+64,Complémentaire Santé,Assurance Santé,Données actuarielles,Validée,64,Manuel,2029-04-01,Actuariat,Aucune
+65,Assurance Santé Collective,Assurance Santé,Données actuarielles,Validée,65,Manuel,2029-05-01,MOA,Aucune
+66,Tous Risques,Assurance Automobile,Données actuarielles,Non validée,66,Manuel,2029-06-01,Actuariat,Erreur de données
+67,Assurance Santé Individuelle,Assurance Santé,Données comptables,Non validée,67,Automatique,2029-07-01,MOA,Incohérence
+68,Tous Risques,Assurance Automobile,Données comptables,Non validée,68,Automatique,2029-08-01,Actuariat,Incohérence
+69,Responsabilité Civile,Assurance Automobile,Données actuarielles,Validée,69,Automatique,2029-09-01,Comptabilité,Aucune
+70,Assurance Multirisque Professionnelle,Assurance Entreprise,Données comptables,Non validée,70,Automatique,2029-10-01,Actuariat,Erreur de données
+71,Multirisque Habitation,Assurance Habitation,Données actuarielles,Validée,71,Automatique,2029-11-01,Actuariat,Aucune
+72,Complémentaire Santé,Assurance Santé,Données actuarielles,Validée,72,Manuel,2029-12-01,MOA,Aucune
+73,Responsabilité Civile,Assurance Automobile,Données actuarielles,Validée,73,Automatique,2030-01-01,MOA,Aucune
+74,Assurance Santé Individuelle,Assurance Santé,Données comptables,Non validée,74,Automatique,2030-02-01,Actuariat,Incohérence
+75,Assurance Pertes d'Exploitation,Assurance Entreprise,Données actuarielles,Validée,75,Automatique,2030-03-01,Comptabilité,Aucune
+76,Responsabilité Civile,Assurance Automobile,Données actuarielles,Non validée,76,Manuel,2030-04-01,Comptabilité,Erreur de données
+77,Multirisque Habitation,Assurance Habitation,Données actuarielles,Non validée,77,Manuel,2030-05-01,MOA,Données manquantes
+78,Complémentaire Santé,Assurance Santé,Données comptables,Validée,78,Automatique,2030-06-01,Comptabilité,Aucune
+79,Assurance Multirisque Professionnelle,Assurance Entreprise,Données comptables,Validée,79,Manuel,2030-07-01,Actuariat,Aucune
+80,Responsabilité Civile,Assurance Automobile,Données actuarielles,Non validée,80,Manuel,2030-08-01,MOA,Données manquantes
+81,Responsabilité Civile,Assurance Automobile,Données comptables,Validée,81,Manuel,2030-09-01,Actuariat,Aucune
+82,Multirisque Habitation,Assurance Habitation,Données comptables,Non validée,82,Manuel,2030-10-01,MOA,Incohérence
+83,Complémentaire Santé,Assurance Santé,Données comptables,Validée,83,Manuel,2030-11-01,MOA,Aucune
+84,Épargne-Vie,Assurance Vie,Données comptables,Non validée,84,Manuel,2030-12-01,MOA,Erreur de données
+85,Vie Entière,Assurance Vie,Données comptables,Non validée,85,Manuel,2031-01-01,MOA,Erreur de données
+86,Assurance Santé Collective,Assurance Santé,Données comptables,Non validée,86,Automatique,2031-02-01,Comptabilité,Données manquantes
+87,Temporaire Décès,Assurance Vie,Données comptables,Non validée,87,Automatique,2031-03-01,Actuariat,Données manquantes
+88,Vie Entière,Assurance Vie,Données comptables,Validée,88,Manuel,2031-04-01,Actuariat,Aucune
+89,Épargne-Vie,Assurance Vie,Données comptables,Validée,89,Automatique,2031-05-01,Actuariat,Aucune
+90,Responsabilité Civile Locataire,Assurance Habitation,Données comptables,Non validée,90,Automatique,2031-06-01,MOA,Données manquantes
+91,Responsabilité Civile Professionnelle,Assurance Entreprise,Données actuarielles,Non validée,91,Manuel,2031-07-01,Comptabilité,Erreur de données
+92,Intermédiaire,Assurance Automobile,Données actuarielles,Validée,92,Automatique,2031-08-01,Actuariat,Aucune
+93,Responsabilité Civile Locataire,Assurance Habitation,Données comptables,Validée,93,Manuel,2031-09-01,Comptabilité,Aucune
+94,Multirisque Habitation,Assurance Habitation,Données actuarielles,Validée,94,Manuel,2031-10-01,MOA,Aucune
+95,Temporaire Décès,Assurance Vie,Données actuarielles,Validée,95,Manuel,2031-11-01,Actuariat,Aucune
+96,Responsabilité Civile,Assurance Automobile,Données comptables,Validée,96,Automatique,2031-12-01,Comptabilité,Aucune
+97,Tous Risques,Assurance Automobile,Données comptables,Validée,97,Automatique,2032-01-01,MOA,Aucune
+98,Temporaire Décès,Assurance Vie,Données comptables,Non validée,98,Automatique,2032-02-01,Comptabilité,Erreur de données
+99,Responsabilité Civile Professionnelle,Assurance Entreprise,Données actuarielles,Validée,99,Automatique,2032-03-01,Actuariat,Aucune
+100,Assurance Santé Collective,Assurance Santé,Données actuarielles,Validée,100,Manuel,2032-04-01,Actuariat,Aucune
